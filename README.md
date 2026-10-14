@@ -18,9 +18,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Skander-Bardaoui&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p></div>
+<img src="https://img.shields.io/badge/Profile-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
 
 ---
 
