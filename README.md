@@ -18,8 +18,9 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Skander-Bardaoui&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Skander-Bardaoui&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p></div>
 
 ---
 
