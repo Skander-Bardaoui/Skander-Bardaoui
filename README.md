@@ -18,12 +18,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Skander-Bardaoui&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge&v=2"
-    alt="Profile Views"
-  />
-</p>
+
 
 
 ## 👨‍💻 About Me
