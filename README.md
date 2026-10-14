@@ -18,9 +18,12 @@
   </a>
 </p>
 
-<img src="https://img.shields.io/badge/Profile-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-
----
+<p align="center">
+  <img
+    src="https://yhype.me/ghpvc/?username=Skander-Bardaoui"
+    alt="Profile Views"
+  />
+</p>
 
 ## 👨‍💻 About Me
 
