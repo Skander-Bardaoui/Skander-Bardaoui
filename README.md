@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <sub><code>NOW</code> Building <a href="https://github.com/Skander-Bardaoui/PI-DEV-FRONT">NovaEntra</a> &amp; the AI oral-exam coach &nbsp;·&nbsp; <code>TARGET</code> PFE 2026 — Full-Stack / BI &nbsp;·&nbsp; <code>BASE</code> Tunisia → France</sub>
+  <sub><code>NOW</code> Building <a href="https://github.com/Skander-Bardaoui/PI-DEV-FRONT">NovaEntra</a> &amp; the AI oral-exam coach &nbsp;·&nbsp; <code>TARGET</code> PFE 2026 — Full-Stack / BI &nbsp;·&nbsp; <code>BASE</code></sub>
 </p>
 
 <div align="center">
