@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://skander-bardaoui.netlify.app/">
-    <img src="assets/hero.svg?v=2" alt="Skander Bardaoui — Full-stack software engineer" width="100%" />
+    <img src="assets/hero.svg?v=3" alt="Skander Bardaoui — Full-stack software engineer" width="100%" />
   </a>
 </div>
 
