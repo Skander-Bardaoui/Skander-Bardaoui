@@ -1,0 +1,60 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skander Bardaoui — Full-Stack Developer, open to PFE 2026">
+  <title>Skander Bardaoui — Full-Stack Developer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(150 20) rotate(38) scale(430 430)">
+      <stop stop-color="#22D3EE" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1130 310) rotate(-138) scale(470 470)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="64" y1="120" x2="560" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#7DD3FC"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity="0.06"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1280" height="320" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="320" fill="url(#bg)"/>
+    <rect width="1280" height="320" fill="url(#grid)"/>
+    <rect width="1280" height="320" fill="url(#glowCyan)"/>
+    <rect width="1280" height="320" fill="url(#glowViolet)"/>
+
+    <rect x="64" y="44" width="196" height="32" rx="16" fill="#22D3EE" fill-opacity="0.08" stroke="#22D3EE" stroke-opacity="0.35"/>
+    <circle cx="84" cy="60" r="4" fill="#22D3EE"/>
+    <text x="98" y="65" fill="#67E8F9" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.6">OPEN TO PFE 2026</text>
+
+    <text x="64" y="146" fill="url(#nameGrad)" font-family="'Segoe UI', Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="-1.2">Skander Bardaoui</text>
+    <text x="66" y="190" fill="#94A3B8" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="400">Full-Stack Developer · Software Engineering Student</text>
+    <text x="66" y="234" fill="#38BDF8" font-family="Consolas, 'Courier New', monospace" font-size="16">React · NestJS · Laravel · Spring Boot · FastAPI</text>
+    <text x="66" y="274" fill="#64748B" font-family="'Segoe UI', Arial, sans-serif" font-size="15">I build production-minded web platforms — from data model to UI.</text>
+
+    <g transform="translate(816 54)">
+      <rect width="400" height="212" rx="16" fill="#0B1220" fill-opacity="0.82" stroke="#1E293B"/>
+      <path d="M0 40H400" stroke="#1E293B"/>
+      <circle cx="24" cy="20" r="5" fill="#F87171"/>
+      <circle cx="42" cy="20" r="5" fill="#FBBF24"/>
+      <circle cx="60" cy="20" r="5" fill="#34D399"/>
+      <text x="82" y="25" fill="#64748B" font-family="Consolas, 'Courier New', monospace" font-size="12">developer.ts</text>
+
+      <text x="24" y="78" font-family="Consolas, 'Courier New', monospace" font-size="14"><tspan fill="#C084FC">const</tspan><tspan fill="#E2E8F0"> skander </tspan><tspan fill="#94A3B8">= {</tspan></text>
+      <text x="40" y="106" font-family="Consolas, 'Courier New', monospace" font-size="14"><tspan fill="#7DD3FC">role</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#86EFAC">"Full-Stack Developer"</tspan><tspan fill="#94A3B8">,</tspan></text>
+      <text x="40" y="134" font-family="Consolas, 'Courier New', monospace" font-size="14"><tspan fill="#7DD3FC">stack</tspan><tspan fill="#94A3B8">: [</tspan><tspan fill="#86EFAC">"React"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"NestJS"</tspan><tspan fill="#94A3B8">],</tspan></text>
+      <text x="40" y="162" font-family="Consolas, 'Courier New', monospace" font-size="14"><tspan fill="#7DD3FC">open</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#86EFAC">"PFE 2026"</tspan><tspan fill="#94A3B8">,</tspan></text>
+      <text x="24" y="190" font-family="Consolas, 'Courier New', monospace" font-size="14"><tspan fill="#94A3B8">};</tspan><tspan fill="#64748B">  // let's build something</tspan></text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="23.5" stroke="#1E293B" stroke-opacity="0.9"/>
+</svg>
