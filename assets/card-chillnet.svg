@@ -1,0 +1,41 @@
+<svg width="520" height="320" viewBox="0 0 520 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ChillNet — CLIMATE / ML project">
+<title>ChillNet — CLIMATE / ML</title>
+<defs>
+  <linearGradient id="card2" x1="0" y1="0" x2="520" y2="320" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#071619"/><stop offset="1" stop-color="#040D0F"/>
+  </linearGradient>
+  <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(80 40) rotate(40) scale(300 300)">
+    <stop stop-color="#FBBF24" stop-opacity=".13"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="accent2" x1="28" y1="0" x2="170" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#FBBF24" stop-opacity=".85"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="grid2" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#5EEAD4" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x=".5" y=".5" width="519" height="319" rx="20" fill="url(#card2)" stroke="#103B40"/>
+<rect x=".5" y=".5" width="519" height="319" rx="20" fill="url(#grid2)"/>
+<rect x=".5" y=".5" width="519" height="319" rx="20" fill="url(#glow2)"/>
+<rect x="28" y="24" width="150" height="1.5" fill="url(#accent2)"/>
+
+<text x="28" y="43" font-family="Consolas, 'Courier New', monospace" fill="#FBBF24" font-size="12.5" letter-spacing="1.3">02</text>
+<line x1="64" y1="39" x2="90" y2="39" stroke="#134E4A"/>
+<text x="100" y="43" font-family="Consolas, 'Courier New', monospace" fill="#64748B" font-size="10.5" letter-spacing="1.2">CLIMATE / ML</text>
+<path d="M474 32l14 0 0 14M488 32l-20 20" stroke="#FBBF24" stroke-opacity=".7" stroke-width="1.4"/>
+
+<text x="28" y="104" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#E2E8F0" font-size="32" font-weight="700" letter-spacing="-.4">ChillNet</text>
+<text x="28" y="142" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#94A3B8" font-size="15">Heatwave-resilience platform</text><text x="28" y="163" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#94A3B8" font-size="15">predicting outage risk and</text><text x="28" y="184" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#94A3B8" font-size="15">mapping nearby cooling spots.</text>
+<g transform="translate(344 44)">
+  <circle cx="76" cy="76" r="70" stroke="#123B40"/>
+  <circle cx="76" cy="76" r="60" stroke="#FBBF24" stroke-opacity=".22" stroke-dasharray="3 8"/>
+  <circle cx="76" cy="50" r="20" stroke="#FBBF24" stroke-width="2"/>
+  <line x1="76" y1="26" x2="76" y2="14" stroke="#FBBF24" stroke-opacity=".55" transform="rotate(0 76 50)"/><line x1="76" y1="26" x2="76" y2="14" stroke="#FBBF24" stroke-opacity=".55" transform="rotate(45 76 50)"/><line x1="76" y1="26" x2="76" y2="14" stroke="#FBBF24" stroke-opacity=".55" transform="rotate(90 76 50)"/><line x1="76" y1="26" x2="76" y2="14" stroke="#FBBF24" stroke-opacity=".55" transform="rotate(135 76 50)"/><line x1="76" y1="26" x2="76" y2="14" stroke="#FBBF24" stroke-opacity=".55" transform="rotate(180 76 50)"/><line x1="76" y1="26" x2="76" y2="14" stroke="#FBBF24" stroke-opacity=".55" transform="rotate(225 76 50)"/><line x1="76" y1="26" x2="76" y2="14" stroke="#FBBF24" stroke-opacity=".55" transform="rotate(270 76 50)"/><line x1="76" y1="26" x2="76" y2="14" stroke="#FBBF24" stroke-opacity=".55" transform="rotate(315 76 50)"/>
+  <path d="M20 96c18-10 32 10 50 0s32 10 50 0" stroke="#FBBF24" stroke-opacity=".65" stroke-width="2" stroke-linecap="round"/>
+  <path d="M20 112c18-10 32 10 50 0s32 10 50 0" stroke="#FBBF24" stroke-opacity=".4" stroke-width="2" stroke-linecap="round"/>
+  <path d="M20 128c18-10 32 10 50 0s32 10 50 0" stroke="#FBBF24" stroke-opacity=".22" stroke-width="2" stroke-linecap="round"/>
+</g>
+
+<line x1="28" y1="210" x2="492" y2="210" stroke="#0F2E33"/>
+<rect x="28" y="224" width="73" height="27" rx="13.5" fill="#06181C" stroke="#123B40"/><text x="64" y="242" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" fill="#CBD5E1" font-size="12.5">Laravel</text><rect x="109" y="224" width="73" height="27" rx="13.5" fill="#06181C" stroke="#123B40"/><text x="146" y="242" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" fill="#CBD5E1" font-size="12.5">FastAPI</text><rect x="190" y="224" width="108" height="27" rx="13.5" fill="#06181C" stroke="#123B40"/><text x="244" y="242" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" fill="#CBD5E1" font-size="12.5">scikit-learn</text><rect x="306" y="224" width="94" height="27" rx="13.5" fill="#06181C" stroke="#123B40"/><text x="353" y="242" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" fill="#CBD5E1" font-size="12.5">Kubernetes</text>
+<text x="28" y="300" font-family="Consolas, 'Courier New', monospace" fill="#475569" font-size="11" letter-spacing="1.2">// CHILLNET / CLIMATE</text>
+<text x="492" y="300" text-anchor="end" font-family="Consolas, 'Courier New', monospace" fill="#FBBF24" font-size="12.5" letter-spacing="1.1">VIEW PROJECT ↗</text>
+</svg>

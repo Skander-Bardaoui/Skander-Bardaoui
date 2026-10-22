@@ -1,0 +1,48 @@
+<svg width="1280" height="380" viewBox="0 0 1280 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="contactTitle contactDesc">
+<title id="contactTitle">Let's build something — contact Skander</title>
+<desc id="contactDesc">Open to PFE 2026 in full-stack development or business intelligence. Based in Tunisia, open to France.</desc>
+<defs>
+  <linearGradient id="cBg" x1="0" y1="0" x2="1280" y2="380" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#031114"/><stop offset=".6" stop-color="#041A1D"/><stop offset="1" stop-color="#020A0C"/>
+  </linearGradient>
+  <radialGradient id="cGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 340) rotate(-40) scale(520 520)">
+    <stop stop-color="#22D3EE" stop-opacity=".16"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="cGlow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1100 40) rotate(140) scale(420 420)">
+    <stop stop-color="#14B8A6" stop-opacity=".12"/><stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="cText" x1="44" y1="180" x2="600" y2="240" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#F8FAFC"/><stop offset=".6" stop-color="#A5F3FC"/><stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <pattern id="cGrid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#5EEAD4" stroke-opacity=".04"/></pattern>
+  <pattern id="cScan" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="1" fill="#5EEAD4" opacity=".04"/></pattern>
+</defs>
+<rect width="1280" height="380" rx="24" fill="url(#cBg)"/>
+<rect width="1280" height="380" rx="24" fill="url(#cGrid)"/>
+<rect width="1280" height="380" rx="24" fill="url(#cGlow)"/>
+<rect width="1280" height="380" rx="24" fill="url(#cGlow2)"/>
+<rect width="1280" height="380" rx="24" fill="url(#cScan)"/>
+<text x="48" y="58" font-family="Consolas, 'Courier New', monospace" fill="#22D3EE" font-size="16" letter-spacing="2.2">04 / CONTACT</text>
+<text x="1232" y="58" text-anchor="end" font-family="Consolas, 'Courier New', monospace" fill="#475569" font-size="12.5" letter-spacing="1.6">OPEN TO PFE 2026</text>
+<line x1="48" y1="78" x2="1232" y2="78" stroke="#0E2E33"/>
+<text x="44" y="164" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#E2E8F0" font-size="68" font-weight="800" letter-spacing="-1.5">LET'S BUILD</text>
+<text x="44" y="240" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="url(#cText)" font-size="68" font-weight="800" letter-spacing="-1.5">SOMETHING.</text>
+<text x="48" y="286" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#94A3B8" font-size="20">Open to PFE 2026 · Full-stack / BI · Tunisia → France</text>
+<text x="48" y="316" font-family="Consolas, 'Courier New', monospace" fill="#475569" font-size="12.5" letter-spacing="1.5">EMAIL</text>
+<text x="48" y="340" font-family="Consolas, 'Courier New', monospace" fill="#67E8F9" font-size="20" letter-spacing=".2">skander.bardaoui@esprit.tn</text>
+<text x="430" y="316" font-family="Consolas, 'Courier New', monospace" fill="#475569" font-size="12.5" letter-spacing="1.5">PORTFOLIO</text>
+<text x="430" y="340" font-family="Consolas, 'Courier New', monospace" fill="#67E8F9" font-size="20" letter-spacing=".2">skander-bardaoui.netlify.app</text>
+
+<g transform="translate(1052 196)">
+  <circle r="116" stroke="#0F3A3F" stroke-dasharray="2 10"/>
+  <circle r="96" fill="#06181C" stroke="#155E63"/>
+  <circle r="70" stroke="#134E4A" stroke-dasharray="3 8"/>
+  <path d="M-26 26L26 -26M26 -26H2M26 -26V-2" stroke="#22D3EE" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text y="55" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" fill="#67E8F9" font-size="16" letter-spacing="3">SAY HELLO</text>
+  <circle cx="96" cy="0" r="4" fill="#22D3EE"/>
+  <circle cx="-96" cy="0" r="4" fill="#22D3EE" opacity=".4"/>
+  <circle cx="0" cy="-116" r="3" fill="#22D3EE" opacity=".5"/>
+</g>
+<text x="1232" y="338" text-anchor="end" font-family="Consolas, 'Courier New', monospace" fill="#475569" font-size="12" letter-spacing="1.4">TN / FR · 2026</text>
+<rect x=".5" y=".5" width="1279" height="379" rx="23.5" stroke="#1E3A3E" stroke-opacity=".8"/>
+</svg>

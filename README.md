@@ -1,107 +1,72 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Skander-Bardaoui/Skander-Bardaoui/main/assets/banner.svg" alt="Skander Bardaoui — Full-Stack Developer" width="100%" />
+  <a href="https://skander-bardaoui.netlify.app/">
+    <img src="assets/hero.svg" alt="Skander Bardaoui — Full-stack software engineer" width="100%" />
+  </a>
+</div>
+
+<p align="center">
+  <sub>Software engineering student at <b>ESPRIT</b> · Business Intelligence background<br/>
+  I build end-to-end products — clean APIs, reliable data models, and interfaces that feel simple.</sub>
+</p>
+
+<div align="center">
+<a href="https://skander-bardaoui.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT_SITE-22D3EE?style=flat-square&amp;labelColor=04171A&amp;logo=googlechrome&amp;logoColor=04171A" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/skander-bardaoui-b916091a5/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&amp;labelColor=04171A&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a> <a href="mailto:skander.bardaoui@esprit.tn"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-0E7490?style=flat-square&amp;labelColor=04171A&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a> <a href="mailto:skander.bardaoui@esprit.tn?subject=PFE%202026%20Opportunity"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_PFE_2026-34D399?style=flat-square&amp;labelColor=04171A" alt="Open to PFE 2026" /></a>
+</div>
+
+<p align="center">
+  <sub><code>NOW</code> Building <a href="https://github.com/Skander-Bardaoui/PI-DEV-FRONT">NovaEntra</a> &amp; the AI oral-exam coach &nbsp;·&nbsp; <code>TARGET</code> PFE 2026 — Full-Stack / BI &nbsp;·&nbsp; <code>BASE</code> Tunisia → France</sub>
+</p>
+
+<div align="center">
+  <img src="assets/sec-work.svg" alt="01 — Selected work" width="100%" />
 </div>
 
 <div align="center">
-
-<a href="https://skander-bardaoui.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/skander-bardaoui-b916091a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:skander.bardaoui@esprit.tn"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="mailto:skander.bardaoui@esprit.tn?subject=PFE%202026%20Opportunity"><img src="https://img.shields.io/badge/Open_to_PFE_2026-2EA043?style=for-the-badge" alt="Open to PFE 2026" /></a>
-
+  <a href="https://github.com/Skander-Bardaoui/PI-DEV-FRONT"><img src="assets/card-novaentra.svg" alt="NovaEntra — multi-tenant SaaS business platform" width="49%" /></a>
+  <a href="https://github.com/Skander-Bardaoui/ChillNet"><img src="assets/card-chillnet.svg" alt="ChillNet — heatwave-resilience platform" width="49%" /></a>
+  <a href="https://github.com/Skander-Bardaoui/EduSpark"><img src="assets/card-eduspark.svg" alt="EduSpark — multi-university education hub" width="49%" /></a>
+  <a href="https://github.com/Skander-Bardaoui/Gestion-Formation-Front"><img src="assets/card-stirforma.svg" alt="StirForma — training management platform" width="49%" /></a>
 </div>
 
-## 👋 About
-
-I'm a full-stack developer and software engineering student at **ESPRIT**, with a **Business Intelligence** background. I like building products end to end — clean APIs, reliable data models, and interfaces that feel simple to use.
-
-- 🎓 Software Engineering @ ESPRIT · BI graduate
-- 🎯 Looking for a **Final-Year Internship (PFE)** in Full-Stack Development or BI
-- 🌍 Based in Tunisia · open to opportunities in France
-- 🔭 Currently building **NovaEntra**, a multi-tenant SaaS platform, and an **AI oral-exam coach**
-- 🌱 Going deeper into **Kubernetes, CI/CD, and LLM integration**
-
-## 🧰 Tech Stack
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,tailwind,html,css&theme=dark&perline=7" alt="React, Angular, TypeScript, JavaScript, Tailwind CSS, HTML, CSS" />
-
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,spring,laravel,symfony,django,fastapi,php,java,python&theme=dark&perline=11" alt="NestJS, Node.js, Express, Spring Boot, Laravel, Symfony, Django, FastAPI, PHP, Java, Python" />
-
-**Data**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,pandas,sklearn,jupyter&theme=dark&perline=7" alt="PostgreSQL, MySQL, MongoDB, Redis, Pandas, scikit-learn, Jupyter" />
-
-**DevOps & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,githubactions,bash,linux&theme=dark&perline=8" alt="Docker, Kubernetes, Jenkins, Git, GitHub, GitHub Actions, Bash, Linux" />
-
-<sub>Also familiar with: C# · .NET · Vue · Oracle · SQL Server · RabbitMQ · Android Studio</sub>
-
-## 🚀 Featured Projects
-
-### 🏢 [NovaEntra](https://github.com/Skander-Bardaoui/PI-DEV-FRONT) — Multi-tenant SaaS business platform
-
-A complete business cycle for SMEs: quotations, automatic invoicing, suppliers, inventory, treasury, and a client portal. AI handles document OCR, 3-way matching, cash-flow prediction, and anomaly detection; the stack ships with Docker and a Jenkins CI/CD pipeline.
-
-**React · NestJS · PostgreSQL · Docker · Jenkins · AI**<br/>
-[Frontend](https://github.com/Skander-Bardaoui/PI-DEV-FRONT) · [Backend](https://github.com/Skander-Bardaoui/PI-DEV-BACKEND)
-
-### 🌡️ [ChillNet](https://github.com/Skander-Bardaoui/ChillNet) — Heatwave-resilience platform
-
-Combines a Laravel 12 application with a FastAPI + scikit-learn microservice that predicts outage risk, recommends nearby cooling locations, and generates health guidance. Packaged with Docker and Kubernetes, and delivered through a Jenkins pipeline.
-
-**Laravel · FastAPI · scikit-learn · Docker · Kubernetes · Jenkins**
-
-### 🎓 [EduSpark](https://github.com/Skander-Bardaoui/EduSpark) — Multi-university education hub
-
-A Django platform organized into six domain modules, with tenant-isolated universities, role-based staff and student profiles, classes and groups, invitations, and AI-assisted profile bios.
-
-**Django · Python · PostgreSQL · AI**
-
-### 📚 [StirForma](https://github.com/Skander-Bardaoui/Gestion-Formation-Front) — Training management platform
-
-Handles the full training lifecycle: catalog, session planning, enrollment, and multi-role access. A React 19 + TanStack Start front end on top of a NestJS/TypeORM API secured with JWT and RBAC.
-
-**React · TanStack Start · NestJS · TypeORM · PostgreSQL**<br/>
-[Frontend](https://github.com/Skander-Bardaoui/Gestion-Formation-Front) · [Backend](https://github.com/Skander-Bardaoui/Gestion-Formation-Back)
-
-### 📍 [GeoFilter API](https://github.com/Skander-Bardaoui/Geo-Api) — Geographic filtering microservice
-
-A Symfony REST API that filters listings by real coverage radius using the Haversine formula, with API-key/JWT authentication, rate limiting, and proximity-ranked pagination.
-
-**Symfony · PHP · API Platform · REST**
-
-## 📈 GitHub Stats
+<p align="center">
+  <sub>MORE WORK &nbsp;·&nbsp; <a href="https://github.com/Skander-Bardaoui/Geo-Api">GeoFilter API</a> &nbsp;·&nbsp; <a href="https://github.com/Skander-Bardaoui/Urbanlink-Symfony">UrbanLink</a> &nbsp;·&nbsp; <a href="https://github.com/Skander-Bardaoui/Human-Resource-Management-Module-Laravel">HR Management</a> &nbsp;·&nbsp; <a href="https://github.com/Skander-Bardaoui?tab=repositories">All repositories →</a></sub>
+</p>
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Skander-Bardaoui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skander-Bardaoui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=380" alt="Most used languages" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Skander-Bardaoui&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
+  <img src="assets/sec-stack.svg" alt="02 — Tech stack" width="100%" />
 </div>
-
-## 🐍 Contribution Graph
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Skander-Bardaoui/Skander-Bardaoui/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
+  <img src="assets/stack.svg" alt="Production toolkit — frontend, backend, data and AI, DevOps" width="100%" />
 </div>
-
-## 🤝 Let's Connect
-
-I'm looking for a **Final-Year Internship (PFE)** where I can contribute to real full-stack or BI products. If you're hiring — or just want to talk about a project — my inbox is open.
 
 <div align="center">
-
-<a href="https://skander-bardaoui.netlify.app/">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/skander-bardaoui-b916091a5/">LinkedIn</a> ·
-<a href="mailto:skander.bardaoui@esprit.tn">skander.bardaoui@esprit.tn</a>
-
-<br/><br/>
-
-<sub>Always learning. Always building.</sub>
-
+  <img src="assets/sec-stats.svg" alt="03 — GitHub signal" width="100%" />
 </div>
+
+<div align="center">
+  <a href="https://github.com/Skander-Bardaoui?tab=repositories"><img width="49%" src="assets/langmap.svg" alt="Language distribution across public repositories" /></a>
+  <a href="https://github.com/Skander-Bardaoui"><img width="49%" src="assets/activity.svg" alt="Activity snapshot: 650 contributions, 36 public repositories, 122 pull requests" /></a>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skander-Bardaoui/Skander-Bardaoui/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skander-Bardaoui/Skander-Bardaoui/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Skander-Bardaoui/Skander-Bardaoui/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
+  </picture>
+</div>
+
+<div align="center">
+  <a href="mailto:skander.bardaoui@esprit.tn?subject=Let%27s%20build%20something">
+    <img src="assets/contact.svg" alt="Contact — let's build something" width="100%" />
+  </a>
+</div>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/skander-bardaoui-b916091a5/"><img src="https://img.shields.io/badge/LINKEDIN-SKANDER--BARDAOUI-0A66C2?style=flat-square&amp;labelColor=04171A&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/Skander-Bardaoui"><img src="https://img.shields.io/badge/GITHUB-SKANDER--BARDAOUI-E2E8F0?style=flat-square&amp;labelColor=04171A&amp;logo=github&amp;logoColor=E2E8F0" alt="GitHub" /></a> <a href="https://skander-bardaoui.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-SKANDER--BARDAOUI-22D3EE?style=flat-square&amp;labelColor=04171A&amp;logo=googlechrome&amp;logoColor=04171A" alt="Portfolio" /></a>
+</div>
+
+<p align="center">
+  <sub>© 2026 Skander Bardaoui · Designed &amp; built from scratch</sub>
+</p>

@@ -1,0 +1,34 @@
+<svg width="640" height="260" viewBox="0 0 640 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Language distribution across public repositories">
+<title>Public code by language</title>
+<defs>
+  <linearGradient id="lBg" x1="0" y1="0" x2="640" y2="260" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#041417"/><stop offset="1" stop-color="#030C0E"/>
+  </linearGradient>
+  <radialGradient id="lGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(560 20) rotate(130) scale(360 360)">
+    <stop stop-color="#22D3EE" stop-opacity=".1"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="lGrid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#5EEAD4" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x=".5" y=".5" width="639" height="259" rx="18" fill="url(#lBg)" stroke="#0E2E33"/>
+<rect x=".5" y=".5" width="639" height="259" rx="18" fill="url(#lGrid)"/>
+<rect x=".5" y=".5" width="639" height="259" rx="18" fill="url(#lGlow)"/>
+<text x="24" y="32" font-family="Consolas, 'Courier New', monospace" fill="#22D3EE" font-size="16" letter-spacing="1.5">LANGUAGES / CODEBASE</text>
+<text x="616" y="32" text-anchor="end" font-family="Consolas, 'Courier New', monospace" fill="#475569" font-size="12.5" letter-spacing="1">36 REPOS · OCT 2026</text>
+<line x1="24" y1="47" x2="616" y2="47" stroke="#0E2E33"/>
+<text x="24" y="82" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#E2E8F0" font-size="18" font-weight="600">TypeScript</text>
+<rect x="220" y="69" width="350" height="7" rx="3.5" fill="#0A2429" stroke="#103B40"/>
+<rect x="220" y="69" width="184.4" height="7" rx="3.5" fill="#22D3EE"/>
+<text x="616" y="82" text-anchor="end" font-family="Consolas, 'Courier New', monospace" fill="#22D3EE" font-size="16">52.7%</text><text x="24" y="118" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#E2E8F0" font-size="18" font-weight="600">PHP · BLADE · TWIG</text>
+<rect x="220" y="105" width="350" height="7" rx="3.5" fill="#0A2429" stroke="#103B40"/>
+<rect x="220" y="105" width="96.6" height="7" rx="3.5" fill="#2DD4BF"/>
+<text x="616" y="118" text-anchor="end" font-family="Consolas, 'Courier New', monospace" fill="#2DD4BF" font-size="16">27.6%</text><text x="24" y="154" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#E2E8F0" font-size="18" font-weight="600">HTML / CSS</text>
+<rect x="220" y="141" width="350" height="7" rx="3.5" fill="#0A2429" stroke="#103B40"/>
+<rect x="220" y="141" width="29.4" height="7" rx="3.5" fill="#FBBF24"/>
+<text x="616" y="154" text-anchor="end" font-family="Consolas, 'Courier New', monospace" fill="#FBBF24" font-size="16">8.4%</text><text x="24" y="190" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#E2E8F0" font-size="18" font-weight="600">JavaScript</text>
+<rect x="220" y="177" width="350" height="7" rx="3.5" fill="#0A2429" stroke="#103B40"/>
+<rect x="220" y="177" width="17.2" height="7" rx="3.5" fill="#A78BFA"/>
+<text x="616" y="190" text-anchor="end" font-family="Consolas, 'Courier New', monospace" fill="#A78BFA" font-size="16">4.9%</text><text x="24" y="226" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#E2E8F0" font-size="18" font-weight="600">Java / Python</text>
+<rect x="220" y="213" width="350" height="7" rx="3.5" fill="#0A2429" stroke="#103B40"/>
+<rect x="220" y="213" width="22.4" height="7" rx="3.5" fill="#34D399"/>
+<text x="616" y="226" text-anchor="end" font-family="Consolas, 'Courier New', monospace" fill="#34D399" font-size="16">6.4%</text>
+</svg>

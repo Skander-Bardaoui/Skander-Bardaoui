@@ -1,0 +1,44 @@
+<svg width="520" height="320" viewBox="0 0 520 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="StirForma — FULL-STACK / SAAS project">
+<title>StirForma — FULL-STACK / SAAS</title>
+<defs>
+  <linearGradient id="card4" x1="0" y1="0" x2="520" y2="320" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#071619"/><stop offset="1" stop-color="#040D0F"/>
+  </linearGradient>
+  <radialGradient id="glow4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(80 40) rotate(40) scale(300 300)">
+    <stop stop-color="#A78BFA" stop-opacity=".13"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="accent4" x1="28" y1="0" x2="170" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#A78BFA" stop-opacity=".85"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="grid4" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#5EEAD4" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x=".5" y=".5" width="519" height="319" rx="20" fill="url(#card4)" stroke="#103B40"/>
+<rect x=".5" y=".5" width="519" height="319" rx="20" fill="url(#grid4)"/>
+<rect x=".5" y=".5" width="519" height="319" rx="20" fill="url(#glow4)"/>
+<rect x="28" y="24" width="150" height="1.5" fill="url(#accent4)"/>
+
+<text x="28" y="43" font-family="Consolas, 'Courier New', monospace" fill="#A78BFA" font-size="12.5" letter-spacing="1.3">04</text>
+<line x1="64" y1="39" x2="90" y2="39" stroke="#134E4A"/>
+<text x="100" y="43" font-family="Consolas, 'Courier New', monospace" fill="#64748B" font-size="10.5" letter-spacing="1.2">FULL-STACK / SAAS</text>
+<path d="M474 32l14 0 0 14M488 32l-20 20" stroke="#A78BFA" stroke-opacity=".7" stroke-width="1.4"/>
+
+<text x="28" y="104" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#E2E8F0" font-size="32" font-weight="700" letter-spacing="-.4">StirForma</text>
+<text x="28" y="142" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#94A3B8" font-size="15">Full training lifecycle:</text><text x="28" y="163" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#94A3B8" font-size="15">catalog, sessions, enrollment,</text><text x="28" y="184" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#94A3B8" font-size="15">roles and permissions.</text>
+<g transform="translate(344 44)">
+  <circle cx="76" cy="76" r="70" stroke="#123B40"/>
+  <path d="M76 6v10M76 136v10M6 76h10M136 76h10" stroke="#A78BFA" stroke-opacity=".4" stroke-width="1.2"/>
+  <rect x="34" y="38" width="84" height="80" rx="9" stroke="#A78BFA" stroke-width="1.8"/>
+  <path d="M34 58h84" stroke="#A78BFA" stroke-opacity=".6"/>
+  <path d="M52 30v14M100 30v14" stroke="#A78BFA" stroke-opacity=".6" stroke-width="2" stroke-linecap="round"/>
+  <g fill="#A78BFA" opacity=".55">
+    <circle cx="54" cy="76" r="3"/><circle cx="76" cy="76" r="3"/><circle cx="98" cy="76" r="3"/>
+    <circle cx="54" cy="94" r="3"/><circle cx="76" cy="94" r="3"/><circle cx="98" cy="94" r="3"/>
+  </g>
+  <path d="M102 108l8 8 16-18" stroke="#A78BFA" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+<line x1="28" y1="210" x2="492" y2="210" stroke="#0F2E33"/>
+<rect x="28" y="224" width="80" height="27" rx="13.5" fill="#06181C" stroke="#123B40"/><text x="68" y="242" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" fill="#CBD5E1" font-size="12.5">React 19</text><rect x="116" y="224" width="80" height="27" rx="13.5" fill="#06181C" stroke="#123B40"/><text x="156" y="242" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" fill="#CBD5E1" font-size="12.5">TanStack</text><rect x="204" y="224" width="66" height="27" rx="13.5" fill="#06181C" stroke="#123B40"/><text x="237" y="242" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" fill="#CBD5E1" font-size="12.5">NestJS</text><rect x="278" y="224" width="94" height="27" rx="13.5" fill="#06181C" stroke="#123B40"/><text x="325" y="242" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" fill="#CBD5E1" font-size="12.5">PostgreSQL</text>
+<text x="28" y="300" font-family="Consolas, 'Courier New', monospace" fill="#475569" font-size="11" letter-spacing="1.2">// STIRFORMA / TRAINING</text>
+<text x="492" y="300" text-anchor="end" font-family="Consolas, 'Courier New', monospace" fill="#A78BFA" font-size="12.5" letter-spacing="1.1">VIEW PROJECT ↗</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg width="640" height="260" viewBox="0 0 640 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Activity snapshot: 650 contributions, 36 public repositories, 122 pull requests">
+<title>Activity snapshot</title>
+<defs>
+  <linearGradient id="aBg" x1="0" y1="0" x2="640" y2="260" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#041417"/><stop offset="1" stop-color="#030C0E"/>
+  </linearGradient>
+  <radialGradient id="aGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(80 240) rotate(-45) scale(380 380)">
+    <stop stop-color="#14B8A6" stop-opacity=".12"/><stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="aGrid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#5EEAD4" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x=".5" y=".5" width="639" height="259" rx="18" fill="url(#aBg)" stroke="#0E2E33"/>
+<rect x=".5" y=".5" width="639" height="259" rx="18" fill="url(#aGrid)"/>
+<rect x=".5" y=".5" width="639" height="259" rx="18" fill="url(#aGlow)"/>
+<text x="24" y="32" font-family="Consolas, 'Courier New', monospace" fill="#22D3EE" font-size="16" letter-spacing="1.5">SIGNAL / ACTIVITY</text>
+<text x="616" y="32" text-anchor="end" font-family="Consolas, 'Courier New', monospace" fill="#475569" font-size="12.5" letter-spacing="1">SNAPSHOT · OCT 2026</text>
+<line x1="24" y1="47" x2="616" y2="47" stroke="#0E2E33"/>
+<line x1="208" y1="64" x2="208" y2="150" stroke="#0E2E33"/>
+<line x1="408" y1="64" x2="408" y2="150" stroke="#0E2E33"/>
+<g font-family="Consolas, 'Courier New', monospace" font-size="12.5" letter-spacing="1.2" fill="#64748B">
+  <circle cx="28" cy="74" r="3" fill="#22D3EE"/><text x="40" y="78">CONTRIBUTIONS</text>
+  <circle cx="228" cy="74" r="3" fill="#2DD4BF"/><text x="240" y="78">PUBLIC REPOS</text>
+  <circle cx="428" cy="74" r="3" fill="#FBBF24"/><text x="440" y="78">PULL REQUESTS</text>
+</g>
+<g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="700" fill="#E2E8F0">
+  <text x="26" y="126">650</text><text x="226" y="126">36</text><text x="426" y="126">122</text>
+</g>
+<rect x="26" y="140" width="26" height="2" fill="#22D3EE"/>
+<rect x="226" y="140" width="26" height="2" fill="#2DD4BF"/>
+<rect x="426" y="140" width="26" height="2" fill="#FBBF24"/>
+<line x1="24" y1="166" x2="616" y2="166" stroke="#0E2E33"/>
+<rect x="24" y="186" width="592" height="44" rx="10" fill="#06181C" stroke="#103B40"/>
+<circle cx="44" cy="208" r="4" fill="#22D3EE"/>
+<text x="60" y="213" font-family="Consolas, 'Courier New', monospace" fill="#67E8F9" font-size="13.5" letter-spacing="1.2">OPEN TO PFE 2026</text>
+<text x="600" y="213" text-anchor="end" font-family="Consolas, 'Courier New', monospace" fill="#64748B" font-size="12" letter-spacing="1">FULL-STACK / BI · TN → FR</text>
+</svg>

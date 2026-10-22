@@ -1,0 +1,18 @@
+<svg width="1280" height="120" viewBox="0 0 1280 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="02 / TECH STACK">
+<title>02 / TECH STACK</title>
+<defs>
+  <linearGradient id="topLine" x1="40" y1="0" x2="1240" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#22D3EE" stop-opacity=".55"/><stop offset=".5" stop-color="#22D3EE" stop-opacity=".08"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="hGrid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#5EEAD4" stroke-opacity=".03"/></pattern>
+</defs>
+<rect x="0" y="10" width="1280" height="100" rx="18" fill="#041012" stroke="#0E2E33"/>
+<rect x="0" y="10" width="1280" height="100" rx="18" fill="url(#hGrid)"/>
+<rect x="1" y="11" width="1278" height="1" fill="url(#topLine)"/>
+<text x="40" y="67" font-family="Consolas, 'Courier New', monospace" fill="#22D3EE" font-size="18" letter-spacing="2">02 /</text>
+<text x="110" y="70" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" fill="#E2E8F0" font-size="32" font-weight="700" letter-spacing=".8">TECH STACK</text>
+<text x="1240" y="67" text-anchor="end" font-family="Consolas, 'Courier New', monospace" fill="#64748B" font-size="16" letter-spacing="1.1">THE TOOLS BEHIND THE WORK.</text>
+<line x1="40" y1="93" x2="1240" y2="93" stroke="#0E2E33"/>
+<rect x="40" y="91" width="58" height="2" fill="#22D3EE"/>
+<circle cx="1224" cy="92" r="2.5" fill="#22D3EE" opacity=".7"/>
+</svg>
