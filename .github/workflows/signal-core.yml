@@ -1,4 +1,4 @@
-name: Generate Contribution Signal
+name: Generate Signal Core
 
 on:
   schedule:
@@ -24,10 +24,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate contribution signal
+      - name: Generate signal core
         env:
           GITHUB_USER: ${{ github.repository_owner }}
-        run: python scripts/generate_contribution_signal.py
+        run: python scripts/generate_signal_core.py
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

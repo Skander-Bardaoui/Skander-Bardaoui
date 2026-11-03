@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Skander-Bardaoui/Skander-Bardaoui/output/contribution-signal.svg" alt="Contribution field — live 52-week scan of GitHub contributions" width="100%" />
+  <img src="https://raw.githubusercontent.com/Skander-Bardaoui/Skander-Bardaoui/output/signal-core.svg" alt="Signal core — live orbital telemetry from GitHub contributions" width="100%" />
 </div>
 
 <div align="center">
