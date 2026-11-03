@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Skander-Bardaoui/Skander-Bardaoui/output/signal-core.svg" alt="Signal core — live orbital telemetry from GitHub contributions" width="100%" />
+  <img src="https://raw.githubusercontent.com/Skander-Bardaoui/Skander-Bardaoui/output/commit-city.svg" alt="Commit city — 52-week skyline where every tower is a week of GitHub commits" width="100%" />
 </div>
 
 <div align="center">

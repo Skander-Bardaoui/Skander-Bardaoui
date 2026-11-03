@@ -1,4 +1,4 @@
-name: Generate Signal Core
+name: Generate Commit City
 
 on:
   schedule:
@@ -24,10 +24,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate signal core
+      - name: Generate commit city
         env:
           GITHUB_USER: ${{ github.repository_owner }}
-        run: python scripts/generate_signal_core.py
+        run: python scripts/generate_commit_city.py
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
