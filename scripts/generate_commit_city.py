@@ -127,7 +127,7 @@ def build_svg(days):
     towers = []
     for index, (week_total, _) in enumerate(weekly):
         ratio = week_total / max_week if max_week else 0
-        height = 2.0 if week_total == 0 else 8 + ratio * (MAX_H - 8)
+        height = 2.0 if week_total == 0 else 8 + (ratio ** 0.65) * (MAX_H - 8)
         x = start_x + index * STEP
         towers.append({
             "x": x,
