@@ -50,11 +50,7 @@
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skander-Bardaoui/Skander-Bardaoui/output/github-contribution-grid-snake-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skander-Bardaoui/Skander-Bardaoui/output/github-contribution-grid-snake.svg?v=2" />
-    <img src="https://raw.githubusercontent.com/Skander-Bardaoui/Skander-Bardaoui/output/github-contribution-grid-snake.svg?v=2" alt="Contribution snake animation" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Skander-Bardaoui/Skander-Bardaoui/output/contribution-signal.svg" alt="Contribution field — live 52-week scan of GitHub contributions" width="100%" />
 </div>
 
 <div align="center">
